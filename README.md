@@ -147,7 +147,7 @@ This page helps to understand where leads come from, who they are, and how effec
 - ⚠️ August effort is higher – revisit ad relevance or lead quality  
 - ⚠️ Avg conversion time (25 days) still long – test urgency triggers  
 
-## 📌 Key KPIs & Measures  
+##  Key KPIs & Measures  
 
 | KPI                        | Description                                  |
 |---------------------------|----------------------------------------------|
