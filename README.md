@@ -9,7 +9,7 @@ This project analyzes a lead generation and marketing funnel dataset to evaluate
 Marketing teams invest heavily in lead generation, but often struggle to connect lead generation efforts to long-term conversion and customer retention. This project analyzes lead behavior, campaign effectiveness, touchpoint impact, and time-to-convert—helping uncover **what works**, **what doesn’t**, and **how to improve performance** across the funnel.
 
 
-## 📁 Dataset Overview  
+## Dataset Overview  
  This dataset contains 15 Columns and 270,154 rows of data.
 
 | Column                     | Description                                               |
