@@ -158,10 +158,10 @@ This page helps to understand where leads come from, who they are, and how effec
 - Test more creatives optimized for this platform  
 
 ###  Conclusion
-This report provides actionable intelligence on the entire lead lifecycle — from sign-up to purchase to retention. Through better campaign timing, more efficient touchpoint strategies, and targeted messaging, the business can significantly improve lead quality, conversion rates, and long-term customer value.
+This report provides actionable intelligence on the entire lead lifecycle, from sign-up to purchase to retention. Through better campaign timing, more efficient touchpoint strategies, and targeted messaging, the business can significantly improve lead quality, conversion rates, and long-term customer value.
 
 ### 🎯 Dataset Limitations
--No Revenue Breakdown by Product/Offer
--Limited to First Purchase Only (No LTV)
--Touchpoint Quality Unknown (just counts, not context)
--Retention Defined Broadly: Based on repeat purchase, not long-term value or frequency
+- No Revenue Breakdown by Product/Offer
+- Limited to First Purchase Only (No LTV)
+- Touchpoint Quality Unknown (just counts, not context)
+- Retention Defined Broadly: Based on repeat purchase, not long-term value or frequency
