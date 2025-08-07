@@ -98,6 +98,7 @@ This page helps to understand where leads come from, who they are, and how effec
 - Younger age groups (22–28) engage better
 - Most users sign up after more than 7 touchpoints, indicating that nurturing and repeated engagement are critical to lead capture. Very few leads convert with minimal interaction.
 
+  !![Campaign Dashboard Page 1](campaign%20dashboard%20page1.png)
 
 ### Page 2: Funnel Performance & Customer Retention
 **Business Goal:**  This page help us nderstand how leads move through the funnel, how long conversion takes, and what drives retention.
@@ -108,7 +109,9 @@ This page helps to understand where leads come from, who they are, and how effec
 - **Revenue by Age & Gender**: 22–35 dominates; male revenue slightly higher  
 - **Avg Days to Convert by campaign**: The Winter campaign delivers the fastest time to purchase, with leads converting in an average of 23.92 days, about 1.5 days quicker than other      campaigns
 - **Avg Purchase Touchpoints**: ~10.5 before purchase  
-- **Retention by Platform**: TikTok slightly stronger  
+- **Retention by Platform**: TikTok slightly stronger
+
+  ![Campaign Dashboard Page 1](campaign%20dashboard%20page2.png)
 
 **What's Working:**  
 - ✅ Strong retention rate (60%)  
@@ -130,7 +133,9 @@ This page helps to understand where leads come from, who they are, and how effec
 - **Avg Days to Convert (Monthly)**: Steady (~25 days); lowest in December  
 - **Retention (Monthly)**: Fairly stable (~60%) with slight Q4 boost  
 - **Avg Purchase Touchpoints (Monthly)**: Peaks in August (~10.5)  
-- **Day-of-Week Patterns**: Friday & Sunday are high-performing days  
+- **Day-of-Week Patterns**: Friday & Sunday are high-performing days
+
+  ![Campaign Dashboard Page 1](campaign%20dashboard%20page3.png)
 
 **What's Working:**  
 - ✅ December is top month: fast, high-volume conversions  
