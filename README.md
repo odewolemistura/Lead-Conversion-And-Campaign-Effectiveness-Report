@@ -50,6 +50,31 @@ Data Modeling: Modeling this data allows for multiple tables with lesser column 
   - The date column in the date (calendar) table i created was linked to Signup Date as the active relationship
   - Date column in the date (calendar) table was also inked to Purchase Date but as an inactive elationship which is made active for analysis  using DAX's `USERELATIONSHIP()` function  
 
+## SQL Highlights
+SQL was used for data transformation, metric calculation, and funnel insights before visualizing in Power BI.
+
+**Sample Query Snippet**
+- --calculate retention %YoY change
+```
+WITH YearlyRetention AS (
+   SELECT year([first purchase date]) as Current_year, COUNT(*) as Retention_num
+   FROM lead_campaign
+   WHERE [Lead Status] = 'Retention'
+   GROUP BY year([first purchase date])
+   HAVING year([first purchase date]) IS NOT NULL
+), 
+cte AS (
+SELECT current_year, Retention_num,
+   LAG(Retention_num) OVER(ORDER BY Current_year) AS Previous_year
+FROM YearlyRetention
+)
+SELECT current_year, Retention_num,
+     format((Retention_num*1.0 - previous_year)/previous_year,'p') AS YoY
+FROM cte
+
+```
+This query calculate the retention Year-over-year change
+
 
 ##  Dashboard Overview  
 
