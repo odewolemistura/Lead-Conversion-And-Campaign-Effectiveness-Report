@@ -98,6 +98,7 @@ This page helps to understand where leads come from, who they are, and how effec
 - Younger age groups (22–28) engage better
 - Most users sign up after more than 7 touchpoints, indicating that nurturing and repeated engagement are critical to lead capture. Very few leads convert with minimal interaction.
 
+![image alt](https://github.com/odewolemistura/Lead-Conversion-And-Campaign-Effectiveness-Report/blob/2dfda339df1157e9e7f2b897fbd1d88a067f51c6/Campaign%20Dashboard%20Page1.png)
 
 ### Page 2: Funnel Performance & Customer Retention
 **Business Goal:**  This page help us nderstand how leads move through the funnel, how long conversion takes, and what drives retention.
