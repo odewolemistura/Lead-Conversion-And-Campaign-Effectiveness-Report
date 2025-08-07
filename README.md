@@ -138,7 +138,9 @@ This page helps to understand where leads come from, who they are, and how effec
 **What's Working:**  
 - ✅ December is top month: fast, high-volume conversions  
 - ✅ Friday/Sunday campaigns convert better  
-- ✅ Retention remains consistent month-to-month  
+- ✅ Retention remains consistent month-to-month
+
+![image alt](https://github.com/odewolemistura/Lead-Conversion-And-Campaign-Effectiveness-Report/blob/a345bd7dd31d2be1649444848576dd0f8d2a170d/Campaign%20Dashboard%20Page3.png)
 
 **What Needs Improvement:**  
 - ⚠️ January slump – increase campaigns or promo urgency  
