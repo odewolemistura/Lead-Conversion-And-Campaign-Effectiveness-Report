@@ -121,6 +121,7 @@ This page helps to understand where leads come from, who they are, and how effec
 - ⚠️ High touchpoint cost – aim for clearer CTAs before 6th touchpoint  
 - ⚠️ Spring/Fall underperform in revenue – refresh messaging  
 
+![image alt](https://github.com/odewolemistura/Lead-Conversion-And-Campaign-Effectiveness-Report/blob/916fecd4ac3921c46f3ca3b9f65bc45ddd9cb054/Campaign%20Dashboard%20Page2.png)
 
 ### Page 3: Time-Based Performance Analysis
 **Business Goal**  This page hep us spot trends and seasonality in acquisition, conversion, and retention over time.
