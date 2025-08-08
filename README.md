@@ -33,10 +33,10 @@ Marketing teams invest heavily in lead generation, but often struggle to connect
 
 ##  Data Preparation Highlights  
 Data Cleaning: This process of data cleaning carried out in this project includes:
--Handling missing numeric values
--Merging first and last name columns together into a new fullname columns
--Handling inconsistencies such as incorrect spelling
--Grouping:
+- Handling missing numeric values
+- Merging first and last name columns together into a new fullname columns
+- Handling inconsistencies such as incorrect spelling
+- Grouping:
   - **Age** column into intervals;  15–21, 22–28, 29–35, 36+
   - **Days to Convert**: Bins (e.g. 5–10, 11–20…)  
   - **Touchpoints**: Binned for visual distributions.
