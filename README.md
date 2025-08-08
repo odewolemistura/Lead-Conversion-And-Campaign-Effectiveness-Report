@@ -48,7 +48,12 @@ Data Processing: With Power Bi's Dax functionalities, I created calculated measu
 
 Data Modeling: Modeling this data allows for multiple tables with lesser column information to speed up processing time, reduce redundancy and increase efficiency.
   - The date column in the date (calendar) table i created was linked to Signup Date as the active relationship
-  - Date column in the date (calendar) table was also inked to Purchase Date but as an inactive elationship which is made active for analysis  using DAX's `USERELATIONSHIP()` function  
+  - Date column in the date (calendar) table was also inked to Purchase Date but as an inactive elationship which is made active for analysis  using DAX's `USERELATIONSHIP()` function
+
+    
+<img width="1186" height="559" alt="Campaign Modeling" src="https://github.com/user-attachments/assets/fba66a04-fe25-4d41-9b14-555f2d366638" />
+
+  
 
 ## SQL Highlights
 SQL was used for data transformation, metric calculation, and funnel insights before visualizing in Power BI.
