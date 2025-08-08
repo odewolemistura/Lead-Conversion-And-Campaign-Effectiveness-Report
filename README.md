@@ -6,7 +6,7 @@
 This project analyzes a lead generation and marketing funnel dataset to evaluate the performance of seasonal campaigns across platforms, understand user behavior, and identify key factors influencing lead conversion and customer retention. The analysis focuses on platform effectiveness (TikTok vs Instagram), lead source (Ads vs Organic), demographic behavior, marketing touchpoints, and funnel efficiency from signup to purchase.
 
 ## Problem Statement  
-Marketing teams invest heavily in lead generation, but often struggle to connect lead generation efforts to long-term conversion and customer retention. This project analyzes lead behavior, campaign effectiveness, touchpoint impact, and time-to-convert—helping uncover **what works**, **what doesn’t**, and **how to improve performance** across the funnel.
+Marketing teams invest heavily in lead generation, but often struggle to connect lead generation efforts to long-term conversion and customer retention. This project analyzes lead behavior, campaign effectiveness, touchpoint impact, and time-to-convert helping uncover **what works**, **what doesn’t**, and **how to improve performance** across the funnel.
 
 
 ## Dataset Overview  
@@ -39,7 +39,7 @@ Data Cleaning: This process of data cleaning carried out in this project include
 -Grouping:
   - **Age** column into intervals;  15–21, 22–28, 29–35, 36+
   - **Days to Convert**: Bins (e.g. 5–10, 11–20…)  
-  - **Touchpoints**: Binned for visual distributions
+  - **Touchpoints**: Binned for visual distributions.
     
 Data Processing: With Power Bi's Dax functionalities, I created calculated measures to show valuable metrics, customized and design visuals to aid clarity in understanding trends.
 -standardizing specific data fields; Created `Days to Convert`: `Purchase Date - Signup Date`  
@@ -79,6 +79,7 @@ This query calculate the retention Year-over-year change
 ##  Dashboard Overview  
 
 The Power BI dashboard consists of **three analytical pages**, each answering a key business question.
+The visuals can be filtered into selected year to get the yearly insights. This result covers the overall performance within the three years.
 
 
 ###  Page 1: Lead Generation & Campaign Insight
